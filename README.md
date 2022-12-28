@@ -2,6 +2,8 @@
 
 Design of a library for scrapping data from Wallapop. It sends a request to the API and returns the results in JSON format. Then the information is stored in a csv file.
 
+![Example](sample.png)
+
 ## Structure
 
 ```text
