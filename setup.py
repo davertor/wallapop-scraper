@@ -26,7 +26,7 @@ def get_version(rel_path):
 
 ###############################################################################
 
-AUTHORS = "Daniel Verdu"
+AUTHORS = ["Daniel Verdu", "Raul Sanz"]
 DESCRIPTION_SHORT = "A Python package for scraping data from Wallapop website"
 VERSION = get_version(os.path.join(MODULE_NAME, "__init__.py"))
 
