@@ -1,3 +1,7 @@
+![Made-love][made-love-shield]
+[![LinkedIn][linkedin-shield]](https://linkedin.com/daniel-verdu-torres)
+
+
 # Wallapop scraper
 
 Design of a library for scrapping data from Wallapop. It sends a request to the API and returns the results in JSON format. Then the information is stored in a csv file.
@@ -68,3 +72,13 @@ python setup.py install
 This project was developed by:
 * [Daniel Verdú](https://github.com/davertor) - https://github.com/davertor
 * [Raúl Sanz](https://github.com/rsanzd) - https://github.com/rsanzd
+
+<!--  MARKDOWN LINKS & IMAGES -->
+[linkedin-url]: https://linkedin.com/daniel-verdu-torres
+[github-url]: https://github.com/davertor
+
+[made-love-shield]: https://img.shields.io/badge/-Made%20with%20love%20❤️-orange.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/badge/License-GNU-brightgreen.svg?style=for-the-badge
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-darkblue.svg?style=for-the-badge&logo=linkedin
+[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=for-the-badge&logo=github
+[twitter-shield]: https://img.shields.io/badge/-Twitter-blue.svg?style=for-the-badge&logo=twitter
